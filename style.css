@@ -1,0 +1,10 @@
+.code {
+    margin: 20px;
+}
+body {
+    background-image:url('Space.gif') ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: rgb(18, 221, 167);
+}
